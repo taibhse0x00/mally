@@ -1,8 +1,3 @@
-</html>
-<%@ Page Language="C#" Debug="true" Trace="false" %>
-<%@ Import Namespace="System.Diagnostics" %>
-<%@ Import Namespace="System.IO" %>
-
 <script Language="c#" runat="server">
 void Page_Load(object sender, EventArgs e)
 {
